@@ -19,7 +19,7 @@
 - [Tree-trunk-width-measurement](https://github.com/eruvierda/Tree-trunk-width-measurement) – Combining computer vision and geospatial analysis!
 - [learn-regex](https://github.com/eruvierda/learn-regex) – Unlocking the mysteries of regular expressions.
 - [bank_sampah](https://github.com/eruvierda/bank_sampah) – Tech for a greener planet!
-- [desktop-tutorial](https://github.com/eruvierda/desktop-tutorial) – My journey, notes, and hacks.
+- [weather map using leafletjs](https://github.com/eruvierda/weather-map-leaflet)) – Indonesia Weather Map using Python and leaflet.js.
 
 ---
 
