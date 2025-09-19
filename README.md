@@ -16,10 +16,11 @@
 
 ## 🔥 Top Projects
 
+- [hycom-data-dl](https://github.com/eruvierda/hycom-data-dl) – High-performance downloader for HYCOM ocean data, with web and CLI support.
 - [Tree-trunk-width-measurement](https://github.com/eruvierda/Tree-trunk-width-measurement) – Combining computer vision and geospatial analysis!
 - [learn-regex](https://github.com/eruvierda/learn-regex) – Unlocking the mysteries of regular expressions.
 - [bank_sampah](https://github.com/eruvierda/bank_sampah) – Tech for a greener planet!
-- [weather map using leafletjs](https://github.com/eruvierda/weather-map-leaflet)) – Indonesia Weather Map using Python and leaflet.js.
+- [weather map using leafletjs](https://github.com/eruvierda/weather-map-leaflet) – Indonesia Weather Map using Python and leaflet.js.
 
 ---
 
